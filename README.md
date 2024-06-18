@@ -1,8 +1,10 @@
 # Java-Breakout-Game
 
+The Breakout Game is a Java-based recreation of the classic arcade game Breakout. Players control a paddle to bounce a ball and break bricks at the top of the screen. The objective is to break all the bricks without letting the ball fall below the paddle.
+
 ![Breakout game screenshot](breakout_game.png)
 
-The Breakout Game is a Java-based recreation of the classic arcade game Breakout. Players control a paddle to bounce a ball and break bricks at the top of the screen. The objective is to break all the bricks without letting the ball fall below the paddle.
+
 
 ## Table of Contents
 
@@ -25,4 +27,4 @@ The Breakout Game is a Java-based recreation of the classic arcade game Breakout
 
 ## Source Code 
 
-- http://zetcode.com/javagames/breakout/
+- `http://zetcode.com/javagames/breakout/`
